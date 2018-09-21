@@ -1,0 +1,17 @@
+F:\VB2005Projects\ImageToData\ImageToData\bin\Debug\ImageToData.exe
+F:\VB2005Projects\ImageToData\ImageToData\bin\Debug\ImageToData.pdb
+F:\VB2005Projects\ImageToData\ImageToData\bin\Debug\ImageToData.xml
+F:\VB2005Projects\ImageToData\ImageToData\bin\Debug\Interop.WIA.dll
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\ResolveAssemblyReference.cache
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\Interop.WIA.dll
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\ImageToData.vbproj.ResolveComReference.cache
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\ImageToData.Form1.resources
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\ImageToData.Resources.resources
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\ImageToData.vbproj.GenerateResource.Cache
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\ImageToData.exe
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\ImageToData.xml
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\ImageToData.pdb
+F:\VB2005Projects\ImageToData\ImageToData\bin\Debug\yo-NG\ImageToData.resources.dll
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\ImageToData.Form1.yo-NG.resources
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\yo-NG\ImageToData.resources.dll
+F:\VB2005Projects\ImageToData\ImageToData\obj\Debug\ImageToData.ConsoleOutput.resources
