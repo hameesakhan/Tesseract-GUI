@@ -21,3 +21,9 @@ Optional: 3) In 'Settings'-> 'Select Language', you can enter language code for 
 6) Outputs will be saved in a file with name 'DataFile.exe' in the same directory as the executable file.
 
 Note: Use arrow keys to navigate through your image.
+
+
+Tested on:
+
+UB Mannheim
+https://github.com/UB-Mannheim/tesseract/wiki
